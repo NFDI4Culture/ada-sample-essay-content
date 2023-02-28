@@ -1,0 +1,17 @@
+TIB
+
+Feb 2023
+
+Doc link - https://tib.eu/cloud/s/eKQQLfTbgPLCre5
+
+Collabora Online Development Edition (CODE)
+This version of Collabora Online Development Edition (CODE) is powered by
+
+LOOLWSD
+6.4.14 (git hash: d28ff6e)
+Served by: afb602c3
+LOKit
+built on LibreOffice Technology
+Collabora Office 6.4-50 (git hash: d53ee72)
+"Ubuntu 18.04.6 LTS"
+Copyright © 2021, Collabora Productivity Limited.
